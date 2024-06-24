@@ -1,0 +1,9 @@
+name: PetTeleport_Improved
+main: main
+version: 1.0
+api-version: 1.21
+commands:
+   callpet:
+      description: teleports your pets to you
+      usage: /<command>
+      permission: pettelepot_improved.callpet
